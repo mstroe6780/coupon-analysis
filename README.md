@@ -245,23 +245,7 @@ However:
 - Temperature contains only three values: **30°F, 55°F, and 80°F**.
 - The available analysis does not provide enough evidence to conclude that either weather or temperature independently improves coupon acceptance.
 
-### Technical Note
-
-The current temperature comparison uses a string value:
-
-```python
-df_coffee["temperature"] != "30"
 ```
-
-If `temperature` is stored as a numeric variable, the comparison should instead be:
-
-```python
-df_coffee["temperature"] != 30
-```
-
-The temperature analysis should be rerun after confirming the variable's data type before drawing conclusions about warm versus cold conditions.
-
----
 
 # 5. Conclusions
 
