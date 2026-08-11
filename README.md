@@ -276,7 +276,7 @@ A practical targeting strategy would therefore prioritize:
    Frequent Coffee House visitors with no urgent destination at 10 AM were the highest-acceptance segment identified.
 
 3. **Treat demographic findings as secondary.**  
-   Income, occupation, and marital status were less consistently associated with acceptance, and some comparison groups were small.
+   Income, occupation, and marital status were less consistently associated with acceptance, and some comparison groups were small. More research may be helpful in udnerstanding the patterns a bit better.
 
 4. **Validate the strongest segments statistically.**  
    Confidence intervals or hypothesis tests could help determine whether observed differences are robust rather than due to sampling variation.
@@ -287,7 +287,7 @@ A practical targeting strategy would therefore prioritize:
    - With unknown visitation categories included and excluded
 
 6. **Consider multivariable modeling as a future extension.**  
-   Logistic regression or a tree-based model could estimate the contribution of multiple factors simultaneously and help distinguish correlated characteristics.
+   Logistic regression could estimate the contribution of multiple factors simultaneously and help distinguish correlated characteristics.
 
 ---
 
